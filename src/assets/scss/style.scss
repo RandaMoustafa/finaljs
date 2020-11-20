@@ -1,0 +1,68 @@
+@import "~bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Modak&display=swap');
+*{
+    font-family: 'Acme', sans-serif;
+}
+
+.card {
+    font-size: 14px;
+    height: 370px;
+    font-family: 'Acme', sans-serif;
+
+    cursor: pointer;
+    img{
+        height: 160px;
+        width: 300px;
+    }
+   
+}
+.card-nav{
+    width: 300px;
+    cursor: pointer;
+    font-family: 'Acme', sans-serif;
+
+    img{
+        height: 160px;
+        width: 350px; 
+        
+    }
+ .card-body-size{
+     font-size: 14px;
+     font-family: 'Acme', sans-serif;
+
+     h5{
+         span{
+             text-decoration: line-through;
+         }
+     }
+ }
+
+}
+.Categories{
+    font-family: 'Acme', sans-serif;
+
+    .container{
+        h3{
+            font-size: 3rem;
+
+        }
+        li{
+            font-size: 30px;
+        }
+    }
+}
+.container{
+    font-family: 'Acme', sans-serif;
+
+    padding-bottom: 50px;
+    h3{
+        font-size: 80px;
+    }
+    div{
+        img{
+            height: 300px;
+        }
+    }
+}
+
+ 
