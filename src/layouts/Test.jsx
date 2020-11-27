@@ -5,12 +5,6 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 
-
-
-
-
-
-
 class Test extends Component{
   constructor(props) {
     super(props);
